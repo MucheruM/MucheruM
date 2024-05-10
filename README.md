@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [The AirBnB clone](https://github.com/MucheruM/AirBnB_clone)
 
-- 🌱 I’m currently learning **Software Engineering with ALX, and FreeCodeCamp**
+- 🌱 I’m currently learning <strong>**Software Engineering with ALX, and FreeCodeCamp**</strong>
 
 - 💬 Ask me about **C, Python, HTML, CSS**
 
