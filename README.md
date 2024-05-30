@@ -1,5 +1,5 @@
 <center><h1 align="center">Hi 👋🐱‍🏍, I'm <a color="green">MucheruM🤩💪🚀</a></h1></center>
-<h3 align="center">A <strong>passionate</strong> frontend developer from <span>Kenya</span> and currently learning backend development</h3>
+<h3 align="center">A <strong>Disciplined</strong> frontend developer from <span>Kenya</span> and currently learning backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucherum&label=Profile%20views&color=0e75b6&style=flat" alt="mucherum" /> </p>
 
