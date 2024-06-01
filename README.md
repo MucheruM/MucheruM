@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <strong>**Software Engineering with ALX, and FreeCodeCamp**</strong>
 
-- 💬 Ask me about **C, Python, HTML, CSS**
+- 💬 Ask me about **C, Python🐍, HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
