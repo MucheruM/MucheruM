@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning <strong>**Software Engineering with ALX, and FreeCodeCamp**</strong>
 
+- I’m currently working on [2D Maze Game Protfolio Project]
+
 - 💬 Ask me about **C, Python🐍, HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
