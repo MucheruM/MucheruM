@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mucheruterrific" target="blank"><img src="https://img.shields.io/twitter/follow/mucheruterrific?logo=twitter&style=for-the-badge" alt="mucheruterrific" /></a> </p>
 
-- 🔭 I’m currently working on [The AirBnB clone](https://github.com/MucheruM/AirBnB_clone)
+- 🔭 I’m have successfully worked on [The AirBnB clone](https://github.com/MucheruM/AirBnB_clone)
 
 - 🌱 I’m currently learning <strong>**Software Engineering with ALX, and FreeCodeCamp**</strong>
 
